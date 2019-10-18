@@ -1,2 +1,2 @@
 # Xinge-Dev
-Excellent coder and researcher!.
+this is for the managers for school to manage students
